@@ -1,0 +1,22 @@
+{
+  "name": "ko-nickname",
+  "version": "0.0.1",
+  "description": "simple korean nickname generator",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warmwhiten/name-generator.git"
+  },
+  "keywords": [
+    "nickname"
+  ],
+  "author": "warmwhiten (Dahee Kim)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warmwhiten/name-generator/issues"
+  },
+  "homepage": "https://github.com/warmwhiten/name-generator#readme"
+}
