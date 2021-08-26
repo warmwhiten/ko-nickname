@@ -8,7 +8,7 @@ $ npm install ko-nickname
 
 
 ```js
-import { generateNickname } from 'ko-nickname';
+import generateNickname from 'ko-nickname';
 
 // default option
 const result = generateNickname(); // ex) '멋진 고양이'
