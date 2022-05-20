@@ -1,5 +1,5 @@
 # name-generator
-Simple vanilaJS name generator
+Simple Korean nickname generator
 
 ### Usage
 ```
@@ -21,5 +21,5 @@ const result = generateNickname({ mode:"onlyAdjective" }) // ex) '멋'
 
 
 ```
-### BETA
+### NPM
 https://www.npmjs.com/package/ko-nickname
